@@ -1,0 +1,3 @@
+nome do banco: blog
+user: root
+senha: SwG^u?R{3IAVwd%>
